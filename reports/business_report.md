@@ -35,10 +35,3 @@ Average Purchase Gap: 3.22 days
 
 ---
 
-## Business Recommendations
-
-1. Target churned customers with personalized offers.
-2. Reward high-value customers through loyalty programs.
-3. Re-engage customers with high recency using email campaigns.
-4. Focus retention efforts on customers showing declining purchase frequency.
-5. Monitor customer lifetime value to prioritize marketing investments.
